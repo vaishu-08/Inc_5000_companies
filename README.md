@@ -26,4 +26,15 @@ matplotlib, seaborn – for visualization
 
 numpy – for numerical analysis
 
+## Data understanding
+## Data Preprocessing
+## Data Analysis
+
+## Conclusion 
+
+The data shows that many fast-growing companies come from different industries and places. The Security industry has the most companies and earns around 125 million USD, while Advertising & Marketing is growing the fastest with an average growth of about 486.7%. California has the highest number of companies, but Minnesota leads in revenue with around 285 million USD. The Southeast region has the most companies (about 1,325) and earns the highest total revenue of approximately 60,268 million USD.
+
+Some new companies, even those started just last year, have quickly become top players—24 companies founded last year are already in the top 100. Having more employees doesn’t always mean a company grows faster—some companies improved growth even after reducing staff. Older companies tend to drop off the list, showing the market is very competitive and always changing.
+
+
 
