@@ -29,9 +29,10 @@ matplotlib, seaborn – for visualization
 
 numpy – for numerical analysis
 
-## Data understanding
 ## Data Preprocessing
-## Data Analysis
+Conversion of all the billion values in Revenue column into millions.
+Treating some null values.
+And performing operations like Groupby,describe etc. to prepare data for visualizations.
 
 ## Conclusion 
 
