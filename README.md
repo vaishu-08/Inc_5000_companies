@@ -1,5 +1,9 @@
 # Inc_5000_companies
 
+![download](https://github.com/Darakshii/Inc.-5000-Companies-Analysis/assets/130299461/ab098982-19ce-4b12-87c2-2bd4a0d1abfb)
+
+
+
 ## Project Description
 This project utilizes Jupyter Notebook to analyze the Inc. 5000 Company List (2014), focusing on the characteristics and growth trends of the fastest-growing private companies in the U.S.
 
