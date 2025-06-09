@@ -1,7 +1,6 @@
 # Inc_5000_companies
 
-![download](https://github.com/Darakshii/Inc.-5000-Companies-Analysis/assets/130299461/ab098982-19ce-4b12-87c2-2bd4a0d1abfb)
-
+![download](https://github.com/vaishu-08/Inc_5000_companies/blob/main/Inc.5000_.png)
 
 
 ## Project Description
