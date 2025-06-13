@@ -2,6 +2,9 @@
 
 ![download](https://github.com/vaishu-08/Inc_5000_companies/blob/main/Inc.5000_.png)
 
+# Project Link
+[inc_5000_compnaies](https://www.kaggle.com/code/vaishhuu23/inc-5000-companies-1)
+
 
 ## Project Description
 This project utilizes Jupyter Notebook to analyze the Inc. 5000 Company List (2014), focusing on the characteristics and growth trends of the fastest-growing private companies in the U.S.
